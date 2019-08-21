@@ -1,0 +1,1 @@
+the pictures for the textures are locaed at the same folder of the main (forClass3D) .
